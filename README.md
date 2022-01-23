@@ -16,7 +16,7 @@ O App Busca CEP é um projeto pessoal para um desafio que visa o aprimoramento e
 </p>
 
 <p align="center">
-    <a href=https://www.linkedin.com/in/felipe-casseb-5522b538/">APK Download (em breve)</a>
+    <a href="https://www.youtube.com/watch?v=gYCMUl4UbGQ&t=1s">Vídeo de apresentação do App Busca CEP em funcionamento</a>
 
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
